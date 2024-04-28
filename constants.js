@@ -1,0 +1,1 @@
+export const transactionViewOptions = ['Annuelle', 'Mensuelle', 'Journalière']
